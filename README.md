@@ -1,4 +1,4 @@
-<p align="center"># WPF-Desk-Remider-App</p>
+<h2 align="center"># WPF-Desk-Remider-App</h2>
 
 
 <p align="center">
