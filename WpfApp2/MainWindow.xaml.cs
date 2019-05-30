@@ -14,7 +14,7 @@ namespace WpfApp2
     /// </summary>    this.DragMove();
     public partial class MainWindow : Window
     {
-        private string words = "New Year’s Resolution is to work on a skill every day for one hour LET IT BE DONE";
+        private string words = "Must remember to add a UI at some point ";
         private int seconds;
         private string secString;
         private int min;
